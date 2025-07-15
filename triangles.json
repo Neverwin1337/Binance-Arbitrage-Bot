@@ -1,0 +1,6554 @@
+[
+    {
+        "route": [
+            "ETC",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "ETCETH",
+            "ETHUSDT",
+            "ETCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETC",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "ETCETH",
+            "ETHBTC",
+            "ETCBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETC",
+            "ETH",
+            "BNB"
+        ],
+        "symbols": [
+            "ETCETH",
+            "BNBETH",
+            "ETCBNB"
+        ]
+    },
+    {
+        "route": [
+            "ETC",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ETCUSDT",
+            "BTCUSDT",
+            "ETCBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETC",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "ETCUSDT",
+            "BNBUSDT",
+            "ETCBNB"
+        ]
+    },
+    {
+        "route": [
+            "ETC",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "ETCBTC",
+            "BNBBTC",
+            "ETCBNB"
+        ]
+    },
+    {
+        "route": [
+            "IO",
+            "USDC",
+            "USDT"
+        ],
+        "symbols": [
+            "IOUSDC",
+            "USDCUSDT",
+            "IOUSDT"
+        ]
+    },
+    {
+        "route": [
+            "IO",
+            "USDC",
+            "BTC"
+        ],
+        "symbols": [
+            "IOUSDC",
+            "BTCUSDC",
+            "IOBTC"
+        ]
+    },
+    {
+        "route": [
+            "IO",
+            "USDC",
+            "BNB"
+        ],
+        "symbols": [
+            "IOUSDC",
+            "BNBUSDC",
+            "IOBNB"
+        ]
+    },
+    {
+        "route": [
+            "IO",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "IOUSDT",
+            "BTCUSDT",
+            "IOBTC"
+        ]
+    },
+    {
+        "route": [
+            "IO",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "IOUSDT",
+            "BNBUSDT",
+            "IOBNB"
+        ]
+    },
+    {
+        "route": [
+            "IO",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "IOBTC",
+            "BNBBTC",
+            "IOBNB"
+        ]
+    },
+    {
+        "route": [
+            "HEI",
+            "USDC",
+            "USDT"
+        ],
+        "symbols": [
+            "HEIUSDC",
+            "USDCUSDT",
+            "HEIUSDT"
+        ]
+    },
+    {
+        "route": [
+            "HEI",
+            "USDC",
+            "BTC"
+        ],
+        "symbols": [
+            "HEIUSDC",
+            "BTCUSDC",
+            "HEIBTC"
+        ]
+    },
+    {
+        "route": [
+            "HEI",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "HEIUSDT",
+            "BTCUSDT",
+            "HEIBTC"
+        ]
+    },
+    {
+        "route": [
+            "PHA",
+            "USDC",
+            "BTC"
+        ],
+        "symbols": [
+            "PHAUSDC",
+            "BTCUSDC",
+            "PHABTC"
+        ]
+    },
+    {
+        "route": [
+            "MANTA",
+            "USDC",
+            "BTC"
+        ],
+        "symbols": [
+            "MANTAUSDC",
+            "BTCUSDC",
+            "MANTABTC"
+        ]
+    },
+    {
+        "route": [
+            "AIXBT",
+            "USDC",
+            "USDT"
+        ],
+        "symbols": [
+            "AIXBTUSDC",
+            "USDCUSDT",
+            "AIXBTUSDT"
+        ]
+    },
+    {
+        "route": [
+            "SPK",
+            "USDC",
+            "BNB"
+        ],
+        "symbols": [
+            "SPKUSDC",
+            "BNBUSDC",
+            "SPKBNB"
+        ]
+    },
+    {
+        "route": [
+            "SLF",
+            "USDC",
+            "USDT"
+        ],
+        "symbols": [
+            "SLFUSDC",
+            "USDCUSDT",
+            "SLFUSDT"
+        ]
+    },
+    {
+        "route": [
+            "SLF",
+            "USDC",
+            "BTC"
+        ],
+        "symbols": [
+            "SLFUSDC",
+            "BTCUSDC",
+            "SLFBTC"
+        ]
+    },
+    {
+        "route": [
+            "SLF",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "SLFUSDT",
+            "BTCUSDT",
+            "SLFBTC"
+        ]
+    },
+    {
+        "route": [
+            "PYTH",
+            "USDC",
+            "USDT"
+        ],
+        "symbols": [
+            "PYTHUSDC",
+            "USDCUSDT",
+            "PYTHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "PYTH",
+            "USDC",
+            "BTC"
+        ],
+        "symbols": [
+            "PYTHUSDC",
+            "BTCUSDC",
+            "PYTHBTC"
+        ]
+    },
+    {
+        "route": [
+            "PYTH",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "PYTHUSDT",
+            "BTCUSDT",
+            "PYTHBTC"
+        ]
+    },
+    {
+        "route": [
+            "RARE",
+            "USDC",
+            "BTC"
+        ],
+        "symbols": [
+            "RAREUSDC",
+            "BTCUSDC",
+            "RAREBTC"
+        ]
+    },
+    {
+        "route": [
+            "PARTI",
+            "USDC",
+            "BNB"
+        ],
+        "symbols": [
+            "PARTIUSDC",
+            "BNBUSDC",
+            "PARTIBNB"
+        ]
+    },
+    {
+        "route": [
+            "IOTX",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "IOTXETH",
+            "ETHBTC",
+            "IOTXBTC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "GALA",
+            "ETH"
+        ],
+        "symbols": [
+            "GALAUSDC",
+            "GALAETH",
+            "ETHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "GALA",
+            "USDT"
+        ],
+        "symbols": [
+            "GALAUSDC",
+            "GALAUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "GALA",
+            "BTC"
+        ],
+        "symbols": [
+            "GALAUSDC",
+            "GALABTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "RUNE",
+            "ETH"
+        ],
+        "symbols": [
+            "RUNEUSDC",
+            "RUNEETH",
+            "ETHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "RUNE",
+            "USDT"
+        ],
+        "symbols": [
+            "RUNEUSDC",
+            "RUNEUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "RUNE",
+            "BTC"
+        ],
+        "symbols": [
+            "RUNEUSDC",
+            "RUNEBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "PAXG",
+            "BTC"
+        ],
+        "symbols": [
+            "PAXGUSDC",
+            "PAXGBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "XLM",
+            "ETH"
+        ],
+        "symbols": [
+            "XLMUSDC",
+            "XLMETH",
+            "ETHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "XLM",
+            "USDT"
+        ],
+        "symbols": [
+            "XLMUSDC",
+            "XLMUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "XLM",
+            "BTC"
+        ],
+        "symbols": [
+            "XLMUSDC",
+            "XLMBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SUSHI",
+            "BTC"
+        ],
+        "symbols": [
+            "SUSHIUSDC",
+            "SUSHIBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NXPC",
+            "BNB"
+        ],
+        "symbols": [
+            "NXPCUSDC",
+            "NXPCBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ACH",
+            "BTC"
+        ],
+        "symbols": [
+            "ACHUSDC",
+            "ACHBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "TRB",
+            "BTC"
+        ],
+        "symbols": [
+            "TRBUSDC",
+            "TRBBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "RENDER",
+            "USDT"
+        ],
+        "symbols": [
+            "RENDERUSDC",
+            "RENDERUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "RENDER",
+            "BTC"
+        ],
+        "symbols": [
+            "RENDERUSDC",
+            "RENDERBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "FDUSD",
+            "USDT"
+        ],
+        "symbols": [
+            "FDUSDUSDC",
+            "FDUSDUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ARB",
+            "ETH"
+        ],
+        "symbols": [
+            "ARBUSDC",
+            "ARBETH",
+            "ETHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ARB",
+            "USDT"
+        ],
+        "symbols": [
+            "ARBUSDC",
+            "ARBUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ARB",
+            "BTC"
+        ],
+        "symbols": [
+            "ARBUSDC",
+            "ARBBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "RAY",
+            "USDT"
+        ],
+        "symbols": [
+            "RAYUSDC",
+            "RAYUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "WIF",
+            "USDT"
+        ],
+        "symbols": [
+            "WIFUSDC",
+            "WIFUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "WIF",
+            "BTC"
+        ],
+        "symbols": [
+            "WIFUSDC",
+            "WIFBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SOPH",
+            "BNB"
+        ],
+        "symbols": [
+            "SOPHUSDC",
+            "SOPHBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "W",
+            "USDT"
+        ],
+        "symbols": [
+            "WUSDC",
+            "WUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "W",
+            "BTC"
+        ],
+        "symbols": [
+            "WUSDC",
+            "WBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "HIVE",
+            "BTC"
+        ],
+        "symbols": [
+            "HIVEUSDC",
+            "HIVEBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SAHARA",
+            "USDT"
+        ],
+        "symbols": [
+            "SAHARAUSDC",
+            "SAHARAUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SAHARA",
+            "BNB"
+        ],
+        "symbols": [
+            "SAHARAUSDC",
+            "SAHARABNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BROCCOLI714",
+            "USDT"
+        ],
+        "symbols": [
+            "BROCCOLI714USDC",
+            "BROCCOLI714USDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "QNT",
+            "BTC"
+        ],
+        "symbols": [
+            "QNTUSDC",
+            "QNTBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "RED",
+            "BTC"
+        ],
+        "symbols": [
+            "REDUSDC",
+            "REDBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "STO",
+            "BNB"
+        ],
+        "symbols": [
+            "STOUSDC",
+            "STOBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "MASK",
+            "USDT"
+        ],
+        "symbols": [
+            "MASKUSDC",
+            "MASKUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "TAO",
+            "USDT"
+        ],
+        "symbols": [
+            "TAOUSDC",
+            "TAOUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "TAO",
+            "BTC"
+        ],
+        "symbols": [
+            "TAOUSDC",
+            "TAOBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SAND",
+            "USDT"
+        ],
+        "symbols": [
+            "SANDUSDC",
+            "SANDUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SAND",
+            "BTC"
+        ],
+        "symbols": [
+            "SANDUSDC",
+            "SANDBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ONT",
+            "BTC"
+        ],
+        "symbols": [
+            "ONTUSDC",
+            "ONTBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "PEPE",
+            "USDT"
+        ],
+        "symbols": [
+            "PEPEUSDC",
+            "PEPEUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "XRP",
+            "ETH"
+        ],
+        "symbols": [
+            "XRPUSDC",
+            "XRPETH",
+            "ETHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "XRP",
+            "USDT"
+        ],
+        "symbols": [
+            "XRPUSDC",
+            "XRPUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "XRP",
+            "BTC"
+        ],
+        "symbols": [
+            "XRPUSDC",
+            "XRPBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "XRP",
+            "BNB"
+        ],
+        "symbols": [
+            "XRPUSDC",
+            "XRPBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "PENDLE",
+            "USDT"
+        ],
+        "symbols": [
+            "PENDLEUSDC",
+            "PENDLEUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "PENDLE",
+            "BTC"
+        ],
+        "symbols": [
+            "PENDLEUSDC",
+            "PENDLEBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ZRO",
+            "USDT"
+        ],
+        "symbols": [
+            "ZROUSDC",
+            "ZROUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ZRO",
+            "BTC"
+        ],
+        "symbols": [
+            "ZROUSDC",
+            "ZROBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "GUN",
+            "BNB"
+        ],
+        "symbols": [
+            "GUNUSDC",
+            "GUNBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BANANA",
+            "BTC"
+        ],
+        "symbols": [
+            "BANANAUSDC",
+            "BANANABTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BANANA",
+            "BNB"
+        ],
+        "symbols": [
+            "BANANAUSDC",
+            "BANANABNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ENJ",
+            "BTC"
+        ],
+        "symbols": [
+            "ENJUSDC",
+            "ENJBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "APE",
+            "BTC"
+        ],
+        "symbols": [
+            "APEUSDC",
+            "APEBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ARKM",
+            "USDT"
+        ],
+        "symbols": [
+            "ARKMUSDC",
+            "ARKMUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ARKM",
+            "BTC"
+        ],
+        "symbols": [
+            "ARKMUSDC",
+            "ARKMBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ARKM",
+            "BNB"
+        ],
+        "symbols": [
+            "ARKMUSDC",
+            "ARKMBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ALT",
+            "USDT"
+        ],
+        "symbols": [
+            "ALTUSDC",
+            "ALTUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ALT",
+            "BTC"
+        ],
+        "symbols": [
+            "ALTUSDC",
+            "ALTBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ALT",
+            "BNB"
+        ],
+        "symbols": [
+            "ALTUSDC",
+            "ALTBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LINK",
+            "ETH"
+        ],
+        "symbols": [
+            "LINKUSDC",
+            "LINKETH",
+            "ETHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LINK",
+            "USDT"
+        ],
+        "symbols": [
+            "LINKUSDC",
+            "LINKUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LINK",
+            "BTC"
+        ],
+        "symbols": [
+            "LINKUSDC",
+            "LINKBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LINK",
+            "BNB"
+        ],
+        "symbols": [
+            "LINKUSDC",
+            "LINKBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "AAVE",
+            "ETH"
+        ],
+        "symbols": [
+            "AAVEUSDC",
+            "AAVEETH",
+            "ETHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "AAVE",
+            "USDT"
+        ],
+        "symbols": [
+            "AAVEUSDC",
+            "AAVEUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "AAVE",
+            "BTC"
+        ],
+        "symbols": [
+            "AAVEUSDC",
+            "AAVEBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NEIRO",
+            "USDT"
+        ],
+        "symbols": [
+            "NEIROUSDC",
+            "NEIROUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LA",
+            "USDT"
+        ],
+        "symbols": [
+            "LAUSDC",
+            "LAUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LA",
+            "BNB"
+        ],
+        "symbols": [
+            "LAUSDC",
+            "LABNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "TON",
+            "USDT"
+        ],
+        "symbols": [
+            "TONUSDC",
+            "TONUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "TON",
+            "BTC"
+        ],
+        "symbols": [
+            "TONUSDC",
+            "TONBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BMT",
+            "BNB"
+        ],
+        "symbols": [
+            "BMTUSDC",
+            "BMTBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "ICP"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "ICPETH",
+            "ICPUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "INJ"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "INJETH",
+            "INJUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "DOT"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "DOTETH",
+            "DOTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "FIL"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "FILETH",
+            "FILUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "LTC"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "LTCETH",
+            "LTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "OP"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "OPETH",
+            "OPUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "NEAR"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "NEARETH",
+            "NEARUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "ETHUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "UNI"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "UNIETH",
+            "UNIUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "SOL"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "SOLETH",
+            "SOLUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "POL"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "POLETH",
+            "POLUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "ETHBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "ATOM"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "ATOMETH",
+            "ATOMUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "IOTA"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "IOTAETH",
+            "IOTAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "S"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "SETH",
+            "SUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "EGLD"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "EGLDETH",
+            "EGLDUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "BNB"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "BNBETH",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "VET"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "VETETH",
+            "VETUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "TRX"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "TRXETH",
+            "TRXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "STEEM"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "STEEMETH",
+            "STEEMUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "A"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "AETH",
+            "AUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "ADA"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "ADAETH",
+            "ADAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "AVAX"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "AVAXETH",
+            "AVAXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETH",
+            "APT"
+        ],
+        "symbols": [
+            "ETHUSDC",
+            "APTETH",
+            "APTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "WCT",
+            "USDT"
+        ],
+        "symbols": [
+            "WCTUSDC",
+            "WCTUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "WCT",
+            "BNB"
+        ],
+        "symbols": [
+            "WCTUSDC",
+            "WCTBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ORDI",
+            "USDT"
+        ],
+        "symbols": [
+            "ORDIUSDC",
+            "ORDIUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ORDI",
+            "BTC"
+        ],
+        "symbols": [
+            "ORDIUSDC",
+            "ORDIBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "PENGU",
+            "USDT"
+        ],
+        "symbols": [
+            "PENGUUSDC",
+            "PENGUUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BB",
+            "BTC"
+        ],
+        "symbols": [
+            "BBUSDC",
+            "BBBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BB",
+            "BNB"
+        ],
+        "symbols": [
+            "BBUSDC",
+            "BBBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "CFX",
+            "USDT"
+        ],
+        "symbols": [
+            "CFXUSDC",
+            "CFXUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "CFX",
+            "BTC"
+        ],
+        "symbols": [
+            "CFXUSDC",
+            "CFXBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ICP",
+            "USDT"
+        ],
+        "symbols": [
+            "ICPUSDC",
+            "ICPUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ICP",
+            "BTC"
+        ],
+        "symbols": [
+            "ICPUSDC",
+            "ICPBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "INJ",
+            "USDT"
+        ],
+        "symbols": [
+            "INJUSDC",
+            "INJUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "INJ",
+            "BTC"
+        ],
+        "symbols": [
+            "INJUSDC",
+            "INJBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "INJ",
+            "BNB"
+        ],
+        "symbols": [
+            "INJUSDC",
+            "INJBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "INIT",
+            "USDT"
+        ],
+        "symbols": [
+            "INITUSDC",
+            "INITUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "INIT",
+            "BNB"
+        ],
+        "symbols": [
+            "INITUSDC",
+            "INITBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "1000CAT",
+            "BNB"
+        ],
+        "symbols": [
+            "1000CATUSDC",
+            "1000CATBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LAYER",
+            "USDT"
+        ],
+        "symbols": [
+            "LAYERUSDC",
+            "LAYERUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LAYER",
+            "BTC"
+        ],
+        "symbols": [
+            "LAYERUSDC",
+            "LAYERBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LAYER",
+            "BNB"
+        ],
+        "symbols": [
+            "LAYERUSDC",
+            "LAYERBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "HAEDAL",
+            "USDT"
+        ],
+        "symbols": [
+            "HAEDALUSDC",
+            "HAEDALUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "HAEDAL",
+            "BNB"
+        ],
+        "symbols": [
+            "HAEDALUSDC",
+            "HAEDALBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BERA",
+            "BTC"
+        ],
+        "symbols": [
+            "BERAUSDC",
+            "BERABTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BERA",
+            "BNB"
+        ],
+        "symbols": [
+            "BERAUSDC",
+            "BERABNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ENA",
+            "USDT"
+        ],
+        "symbols": [
+            "ENAUSDC",
+            "ENAUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ENA",
+            "BTC"
+        ],
+        "symbols": [
+            "ENAUSDC",
+            "ENABTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ENA",
+            "BNB"
+        ],
+        "symbols": [
+            "ENAUSDC",
+            "ENABNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NEWT",
+            "USDT"
+        ],
+        "symbols": [
+            "NEWTUSDC",
+            "NEWTUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NEWT",
+            "BNB"
+        ],
+        "symbols": [
+            "NEWTUSDC",
+            "NEWTBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "TRUMP",
+            "USDT"
+        ],
+        "symbols": [
+            "TRUMPUSDC",
+            "TRUMPUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "DOT",
+            "USDT"
+        ],
+        "symbols": [
+            "DOTUSDC",
+            "DOTUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "DOT",
+            "BTC"
+        ],
+        "symbols": [
+            "DOTUSDC",
+            "DOTBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "DOT",
+            "BNB"
+        ],
+        "symbols": [
+            "DOTUSDC",
+            "DOTBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "ETHFI",
+            "USDT"
+        ],
+        "symbols": [
+            "ETHFIUSDC",
+            "ETHFIUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "FIL",
+            "USDT"
+        ],
+        "symbols": [
+            "FILUSDC",
+            "FILUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "FIL",
+            "BTC"
+        ],
+        "symbols": [
+            "FILUSDC",
+            "FILBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LPT",
+            "BTC"
+        ],
+        "symbols": [
+            "LPTUSDC",
+            "LPTBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LPT",
+            "BNB"
+        ],
+        "symbols": [
+            "LPTUSDC",
+            "LPTBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "VIRTUAL",
+            "USDT"
+        ],
+        "symbols": [
+            "VIRTUALUSDC",
+            "VIRTUALUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LDO",
+            "USDT"
+        ],
+        "symbols": [
+            "LDOUSDC",
+            "LDOUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LDO",
+            "BTC"
+        ],
+        "symbols": [
+            "LDOUSDC",
+            "LDOBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "AR",
+            "BTC"
+        ],
+        "symbols": [
+            "ARUSDC",
+            "ARBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SEI",
+            "USDT"
+        ],
+        "symbols": [
+            "SEIUSDC",
+            "SEIUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SEI",
+            "BTC"
+        ],
+        "symbols": [
+            "SEIUSDC",
+            "SEIBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SEI",
+            "BNB"
+        ],
+        "symbols": [
+            "SEIUSDC",
+            "SEIBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "DYDX",
+            "BTC"
+        ],
+        "symbols": [
+            "DYDXUSDC",
+            "DYDXBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SHELL",
+            "BTC"
+        ],
+        "symbols": [
+            "SHELLUSDC",
+            "SHELLBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SHELL",
+            "BNB"
+        ],
+        "symbols": [
+            "SHELLUSDC",
+            "SHELLBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LTC",
+            "USDT"
+        ],
+        "symbols": [
+            "LTCUSDC",
+            "LTCUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LTC",
+            "BTC"
+        ],
+        "symbols": [
+            "LTCUSDC",
+            "LTCBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "LTC",
+            "BNB"
+        ],
+        "symbols": [
+            "LTCUSDC",
+            "LTCBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "OMNI",
+            "USDT"
+        ],
+        "symbols": [
+            "OMNIUSDC",
+            "OMNIUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "OMNI",
+            "BTC"
+        ],
+        "symbols": [
+            "OMNIUSDC",
+            "OMNIBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SHIB",
+            "USDT"
+        ],
+        "symbols": [
+            "SHIBUSDC",
+            "SHIBUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "OP",
+            "USDT"
+        ],
+        "symbols": [
+            "OPUSDC",
+            "OPUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "OP",
+            "BTC"
+        ],
+        "symbols": [
+            "OPUSDC",
+            "OPBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NEAR",
+            "USDT"
+        ],
+        "symbols": [
+            "NEARUSDC",
+            "NEARUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NEAR",
+            "BTC"
+        ],
+        "symbols": [
+            "NEARUSDC",
+            "NEARBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NEAR",
+            "BNB"
+        ],
+        "symbols": [
+            "NEARUSDC",
+            "NEARBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "HOME",
+            "USDT"
+        ],
+        "symbols": [
+            "HOMEUSDC",
+            "HOMEUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "HOME",
+            "BNB"
+        ],
+        "symbols": [
+            "HOMEUSDC",
+            "HOMEBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "FET",
+            "USDT"
+        ],
+        "symbols": [
+            "FETUSDC",
+            "FETUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "FET",
+            "BTC"
+        ],
+        "symbols": [
+            "FETUSDC",
+            "FETBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "FET",
+            "BNB"
+        ],
+        "symbols": [
+            "FETUSDC",
+            "FETBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "FLOKI",
+            "USDT"
+        ],
+        "symbols": [
+            "FLOKIUSDC",
+            "FLOKIUSDT",
+            "USDCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BOME"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BOMEUSDT",
+            "BOMEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "UNI"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "UNIUSDT",
+            "UNIUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "SOL"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "SOLUSDT",
+            "SOLUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "POL"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "POLUSDT",
+            "POLUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "SUI"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "SUIUSDT",
+            "SUIUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BONK"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BONKUSDT",
+            "BONKUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BTCUSDT",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "PNUT"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "PNUTUSDT",
+            "PNUTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "ATOM"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "ATOMUSDT",
+            "ATOMUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BLUR"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BLURUSDT",
+            "BLURUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "SAGA"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "SAGAUSDT",
+            "SAGAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BANANAS31"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BANANAS31USDT",
+            "BANANAS31USDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "IOTA"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "IOTAUSDT",
+            "IOTAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "ONDO"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "ONDOUSDT",
+            "ONDOUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "ALGO"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "ALGOUSDT",
+            "ALGOUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "PEOPLE"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "PEOPLEUSDT",
+            "PEOPLEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "S"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "SUSDT",
+            "SUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BNBUSDT",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "CAKE"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "CAKEUSDT",
+            "CAKEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "EIGEN"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "EIGENUSDT",
+            "EIGENUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "MUBARAK"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "MUBARAKUSDT",
+            "MUBARAKUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "SYRUP"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "SYRUPUSDT",
+            "SYRUPUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "EUR"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "EURUSDT",
+            "EURUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "VET"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "VETUSDT",
+            "VETUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "OM"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "OMUSDT",
+            "OMUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "JUP"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "JUPUSDT",
+            "JUPUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "TST"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "TSTUSDT",
+            "TSTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "TIA"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "TIAUSDT",
+            "TIAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "ORCA"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "ORCAUSDT",
+            "ORCAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BCH"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BCHUSDT",
+            "BCHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "HYPER"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "HYPERUSDT",
+            "HYPERUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "HBAR"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "HBARUSDT",
+            "HBARUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "TRX"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "TRXUSDT",
+            "TRXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "MKR"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "MKRUSDT",
+            "MKRUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "MOVE"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "MOVEUSDT",
+            "MOVEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "DOGE"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "DOGEUSDT",
+            "DOGEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "WLD"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "WLDUSDT",
+            "WLDUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "BIGTIME"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "BIGTIMEUSDT",
+            "BIGTIMEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "AUCTION"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "AUCTIONUSDT",
+            "AUCTIONUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "RESOLV"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "RESOLVUSDT",
+            "RESOLVUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "A"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "AUSDT",
+            "AUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "HUMA"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "HUMAUSDT",
+            "HUMAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "ADA"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "ADAUSDT",
+            "ADAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "AVAX"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "AVAXUSDT",
+            "AVAXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "CRV"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "CRVUSDT",
+            "CRVUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "IDEX"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "IDEXUSDT",
+            "IDEXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "USDT",
+            "APT"
+        ],
+        "symbols": [
+            "USDCUSDT",
+            "APTUSDT",
+            "APTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "GMT",
+            "BTC"
+        ],
+        "symbols": [
+            "GMTUSDC",
+            "GMTBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "UNI",
+            "BTC"
+        ],
+        "symbols": [
+            "UNIUSDC",
+            "UNIBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SOL",
+            "BTC"
+        ],
+        "symbols": [
+            "SOLUSDC",
+            "SOLBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SOL",
+            "BNB"
+        ],
+        "symbols": [
+            "SOLUSDC",
+            "SOLBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "POL",
+            "BTC"
+        ],
+        "symbols": [
+            "POLUSDC",
+            "POLBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "POL",
+            "BNB"
+        ],
+        "symbols": [
+            "POLUSDC",
+            "POLBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SUI",
+            "BTC"
+        ],
+        "symbols": [
+            "SUIUSDC",
+            "SUIBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SUI",
+            "BNB"
+        ],
+        "symbols": [
+            "SUIUSDC",
+            "SUIBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "NEO",
+            "BTC"
+        ],
+        "symbols": [
+            "NEOUSDC",
+            "NEOBTC",
+            "BTCUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "GPS",
+            "BNB"
+        ],
+        "symbols": [
+            "GPSUSDC",
+            "GPSBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "PNUT"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "PNUTBTC",
+            "PNUTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "ATOM"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "ATOMBTC",
+            "ATOMUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "SAGA"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "SAGABTC",
+            "SAGAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "IOTA"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "IOTABTC",
+            "IOTAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "ALGO"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "ALGOBTC",
+            "ALGOUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "PEOPLE"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "PEOPLEBTC",
+            "PEOPLEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "S"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "SBTC",
+            "SUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "EGLD"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "EGLDBTC",
+            "EGLDUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "BNBBTC",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "CAKE"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "CAKEBTC",
+            "CAKEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "EIGEN"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "EIGENBTC",
+            "EIGENUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "VET"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "VETBTC",
+            "VETUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "OM"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "OMBTC",
+            "OMUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "TIA"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "TIABTC",
+            "TIAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "BCH"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "BCHBTC",
+            "BCHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "CHZ"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "CHZBTC",
+            "CHZUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "HBAR"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "HBARBTC",
+            "HBARUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "TRX"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "TRXBTC",
+            "TRXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "MKR"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "MKRBTC",
+            "MKRUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "MOVE"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "MOVEBTC",
+            "MOVEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "DOGE"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "DOGEBTC",
+            "DOGEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "KAITO"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "KAITOBTC",
+            "KAITOUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "USUAL"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "USUALBTC",
+            "USUALUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "ZK"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "ZKBTC",
+            "ZKUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "FLUX"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "FLUXBTC",
+            "FLUXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "RVN"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "RVNBTC",
+            "RVNUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "WLD"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "WLDBTC",
+            "WLDUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "STX"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "STXBTC",
+            "STXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "STEEM"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "STEEMBTC",
+            "STEEMUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "API3"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "API3BTC",
+            "API3USDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "XTZ"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "XTZBTC",
+            "XTZUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "AUCTION"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "AUCTIONBTC",
+            "AUCTIONUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "YGG"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "YGGBTC",
+            "YGGUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "A"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "ABTC",
+            "AUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "ZEN"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "ZENBTC",
+            "ZENUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "ENS"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "ENSBTC",
+            "ENSUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "ADA"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "ADABTC",
+            "ADAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "AVAX"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "AVAXBTC",
+            "AVAXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "CRV"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "CRVBTC",
+            "CRVUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "THETA"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "THETABTC",
+            "THETAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BTC",
+            "APT"
+        ],
+        "symbols": [
+            "BTCUSDC",
+            "APTBTC",
+            "APTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "SAGA",
+            "BNB"
+        ],
+        "symbols": [
+            "SAGAUSDC",
+            "SAGABNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "S",
+            "BNB"
+        ],
+        "symbols": [
+            "SUSDC",
+            "SBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "EGLD",
+            "BNB"
+        ],
+        "symbols": [
+            "EGLDUSDC",
+            "EGLDBNB",
+            "BNBUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "CAKE"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "CAKEBNB",
+            "CAKEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "KERNEL"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "KERNELBNB",
+            "KERNELUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "SXT"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "SXTBNB",
+            "SXTUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "VET"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "VETBNB",
+            "VETUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "NIL"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "NILBNB",
+            "NILUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "BCH"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "BCHBNB",
+            "BCHUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "CHZ"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "CHZBNB",
+            "CHZUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "HYPER"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "HYPERBNB",
+            "HYPERUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "HBAR"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "HBARBNB",
+            "HBARUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "TRX"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "TRXBNB",
+            "TRXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "MOVE"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "MOVEBNB",
+            "MOVEUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "BIO"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "BIOBNB",
+            "BIOUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "BABY"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "BABYBNB",
+            "BABYUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "STX"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "STXBNB",
+            "STXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "SIGN"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "SIGNBNB",
+            "SIGNUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "RESOLV"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "RESOLVBNB",
+            "RESOLVUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "HUMA"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "HUMABNB",
+            "HUMAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "ADA"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "ADABNB",
+            "ADAUSDC"
+        ]
+    },
+    {
+        "route": [
+            "USDC",
+            "BNB",
+            "AVAX"
+        ],
+        "symbols": [
+            "BNBUSDC",
+            "AVAXBNB",
+            "AVAXUSDC"
+        ]
+    },
+    {
+        "route": [
+            "GALA",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "GALAETH",
+            "ETHUSDT",
+            "GALAUSDT"
+        ]
+    },
+    {
+        "route": [
+            "GALA",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "GALAETH",
+            "ETHBTC",
+            "GALABTC"
+        ]
+    },
+    {
+        "route": [
+            "GALA",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "GALAUSDT",
+            "BTCUSDT",
+            "GALABTC"
+        ]
+    },
+    {
+        "route": [
+            "RUNE",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "RUNEETH",
+            "ETHUSDT",
+            "RUNEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "RUNE",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "RUNEETH",
+            "ETHBTC",
+            "RUNEBTC"
+        ]
+    },
+    {
+        "route": [
+            "RUNE",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "RUNEUSDT",
+            "BTCUSDT",
+            "RUNEBTC"
+        ]
+    },
+    {
+        "route": [
+            "XLM",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "XLMETH",
+            "ETHUSDT",
+            "XLMUSDT"
+        ]
+    },
+    {
+        "route": [
+            "XLM",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "XLMETH",
+            "ETHBTC",
+            "XLMBTC"
+        ]
+    },
+    {
+        "route": [
+            "XLM",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "XLMUSDT",
+            "BTCUSDT",
+            "XLMBTC"
+        ]
+    },
+    {
+        "route": [
+            "RENDER",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "RENDERUSDT",
+            "BTCUSDT",
+            "RENDERBTC"
+        ]
+    },
+    {
+        "route": [
+            "ARB",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "ARBETH",
+            "ETHUSDT",
+            "ARBUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ARB",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "ARBETH",
+            "ETHBTC",
+            "ARBBTC"
+        ]
+    },
+    {
+        "route": [
+            "ARB",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ARBUSDT",
+            "BTCUSDT",
+            "ARBBTC"
+        ]
+    },
+    {
+        "route": [
+            "WIF",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "WIFUSDT",
+            "BTCUSDT",
+            "WIFBTC"
+        ]
+    },
+    {
+        "route": [
+            "W",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "WUSDT",
+            "BTCUSDT",
+            "WBTC"
+        ]
+    },
+    {
+        "route": [
+            "SAHARA",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "SAHARAUSDT",
+            "BNBUSDT",
+            "SAHARABNB"
+        ]
+    },
+    {
+        "route": [
+            "LOKA",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "LOKAUSDT",
+            "BTCUSDT",
+            "LOKABTC"
+        ]
+    },
+    {
+        "route": [
+            "DASH",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "DASHETH",
+            "ETHBTC",
+            "DASHBTC"
+        ]
+    },
+    {
+        "route": [
+            "PORTAL",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "PORTALUSDT",
+            "BTCUSDT",
+            "PORTALBTC"
+        ]
+    },
+    {
+        "route": [
+            "PORTAL",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "PORTALUSDT",
+            "BNBUSDT",
+            "PORTALBNB"
+        ]
+    },
+    {
+        "route": [
+            "PORTAL",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "PORTALBTC",
+            "BNBBTC",
+            "PORTALBNB"
+        ]
+    },
+    {
+        "route": [
+            "TAO",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "TAOUSDT",
+            "BTCUSDT",
+            "TAOBTC"
+        ]
+    },
+    {
+        "route": [
+            "SAND",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "SANDUSDT",
+            "BTCUSDT",
+            "SANDBTC"
+        ]
+    },
+    {
+        "route": [
+            "PHB",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "PHBUSDT",
+            "BTCUSDT",
+            "PHBBTC"
+        ]
+    },
+    {
+        "route": [
+            "MANA",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "MANAETH",
+            "ETHBTC",
+            "MANABTC"
+        ]
+    },
+    {
+        "route": [
+            "XVS",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "XVSBTC",
+            "BNBBTC",
+            "XVSBNB"
+        ]
+    },
+    {
+        "route": [
+            "OG",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "OGUSDT",
+            "BTCUSDT",
+            "OGBTC"
+        ]
+    },
+    {
+        "route": [
+            "XRP",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "XRPETH",
+            "ETHUSDT",
+            "XRPUSDT"
+        ]
+    },
+    {
+        "route": [
+            "XRP",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "XRPETH",
+            "ETHBTC",
+            "XRPBTC"
+        ]
+    },
+    {
+        "route": [
+            "XRP",
+            "ETH",
+            "BNB"
+        ],
+        "symbols": [
+            "XRPETH",
+            "BNBETH",
+            "XRPBNB"
+        ]
+    },
+    {
+        "route": [
+            "XRP",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "XRPUSDT",
+            "BTCUSDT",
+            "XRPBTC"
+        ]
+    },
+    {
+        "route": [
+            "XRP",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "XRPUSDT",
+            "BNBUSDT",
+            "XRPBNB"
+        ]
+    },
+    {
+        "route": [
+            "XRP",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "XRPBTC",
+            "BNBBTC",
+            "XRPBNB"
+        ]
+    },
+    {
+        "route": [
+            "PENDLE",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "PENDLEUSDT",
+            "BTCUSDT",
+            "PENDLEBTC"
+        ]
+    },
+    {
+        "route": [
+            "ZRO",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ZROUSDT",
+            "BTCUSDT",
+            "ZROBTC"
+        ]
+    },
+    {
+        "route": [
+            "BANANA",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "BANANABTC",
+            "BNBBTC",
+            "BANANABNB"
+        ]
+    },
+    {
+        "route": [
+            "ZEC",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "ZECETH",
+            "ETHBTC",
+            "ZECBTC"
+        ]
+    },
+    {
+        "route": [
+            "ARKM",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ARKMUSDT",
+            "BTCUSDT",
+            "ARKMBTC"
+        ]
+    },
+    {
+        "route": [
+            "ARKM",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "ARKMUSDT",
+            "BNBUSDT",
+            "ARKMBNB"
+        ]
+    },
+    {
+        "route": [
+            "ARKM",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "ARKMBTC",
+            "BNBBTC",
+            "ARKMBNB"
+        ]
+    },
+    {
+        "route": [
+            "ALT",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ALTUSDT",
+            "BTCUSDT",
+            "ALTBTC"
+        ]
+    },
+    {
+        "route": [
+            "ALT",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "ALTUSDT",
+            "BNBUSDT",
+            "ALTBNB"
+        ]
+    },
+    {
+        "route": [
+            "ALT",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "ALTBTC",
+            "BNBBTC",
+            "ALTBNB"
+        ]
+    },
+    {
+        "route": [
+            "LINK",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "LINKETH",
+            "ETHUSDT",
+            "LINKUSDT"
+        ]
+    },
+    {
+        "route": [
+            "LINK",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "LINKETH",
+            "ETHBTC",
+            "LINKBTC"
+        ]
+    },
+    {
+        "route": [
+            "LINK",
+            "ETH",
+            "BNB"
+        ],
+        "symbols": [
+            "LINKETH",
+            "BNBETH",
+            "LINKBNB"
+        ]
+    },
+    {
+        "route": [
+            "LINK",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "LINKUSDT",
+            "BTCUSDT",
+            "LINKBTC"
+        ]
+    },
+    {
+        "route": [
+            "LINK",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "LINKUSDT",
+            "BNBUSDT",
+            "LINKBNB"
+        ]
+    },
+    {
+        "route": [
+            "LINK",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "LINKBTC",
+            "BNBBTC",
+            "LINKBNB"
+        ]
+    },
+    {
+        "route": [
+            "ARDR",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ARDRUSDT",
+            "BTCUSDT",
+            "ARDRBTC"
+        ]
+    },
+    {
+        "route": [
+            "AAVE",
+            "ETH",
+            "USDT"
+        ],
+        "symbols": [
+            "AAVEETH",
+            "ETHUSDT",
+            "AAVEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "AAVE",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "AAVEETH",
+            "ETHBTC",
+            "AAVEBTC"
+        ]
+    },
+    {
+        "route": [
+            "AAVE",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "AAVEUSDT",
+            "BTCUSDT",
+            "AAVEBTC"
+        ]
+    },
+    {
+        "route": [
+            "LA",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "LAUSDT",
+            "BNBUSDT",
+            "LABNB"
+        ]
+    },
+    {
+        "route": [
+            "TON",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "TONUSDT",
+            "BTCUSDT",
+            "TONBTC"
+        ]
+    },
+    {
+        "route": [
+            "LRC",
+            "ETH",
+            "BTC"
+        ],
+        "symbols": [
+            "LRCETH",
+            "ETHBTC",
+            "LRCBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "ICP",
+            "USDT"
+        ],
+        "symbols": [
+            "ICPETH",
+            "ICPUSDT",
+            "ETHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "ICP",
+            "BTC"
+        ],
+        "symbols": [
+            "ICPETH",
+            "ICPBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "INJ",
+            "USDT"
+        ],
+        "symbols": [
+            "INJETH",
+            "INJUSDT",
+            "ETHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "INJ",
+            "BTC"
+        ],
+        "symbols": [
+            "INJETH",
+            "INJBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "INJ",
+            "BNB"
+        ],
+        "symbols": [
+            "INJETH",
+            "INJBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "CYBER",
+            "BTC"
+        ],
+        "symbols": [
+            "CYBERETH",
+            "CYBERBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "CYBER",
+            "BNB"
+        ],
+        "symbols": [
+            "CYBERETH",
+            "CYBERBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "DOT",
+            "USDT"
+        ],
+        "symbols": [
+            "DOTETH",
+            "DOTUSDT",
+            "ETHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "DOT",
+            "BTC"
+        ],
+        "symbols": [
+            "DOTETH",
+            "DOTBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "DOT",
+            "BNB"
+        ],
+        "symbols": [
+            "DOTETH",
+            "DOTBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "FIL",
+            "USDT"
+        ],
+        "symbols": [
+            "FILETH",
+            "FILUSDT",
+            "ETHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "FIL",
+            "BTC"
+        ],
+        "symbols": [
+            "FILETH",
+            "FILBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "POWR",
+            "BTC"
+        ],
+        "symbols": [
+            "POWRETH",
+            "POWRBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "LTC",
+            "USDT"
+        ],
+        "symbols": [
+            "LTCETH",
+            "LTCUSDT",
+            "ETHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "LTC",
+            "BTC"
+        ],
+        "symbols": [
+            "LTCETH",
+            "LTCBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "LTC",
+            "BNB"
+        ],
+        "symbols": [
+            "LTCETH",
+            "LTCBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "OP",
+            "USDT"
+        ],
+        "symbols": [
+            "OPETH",
+            "OPUSDT",
+            "ETHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "OP",
+            "BTC"
+        ],
+        "symbols": [
+            "OPETH",
+            "OPBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "NEAR",
+            "USDT"
+        ],
+        "symbols": [
+            "NEARETH",
+            "NEARUSDT",
+            "ETHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "NEAR",
+            "BTC"
+        ],
+        "symbols": [
+            "NEARETH",
+            "NEARBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "NEAR",
+            "BNB"
+        ],
+        "symbols": [
+            "NEARETH",
+            "NEARBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "UNI"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "UNIUSDT",
+            "UNIETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "SOL"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "SOLUSDT",
+            "SOLETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "POL"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "POLUSDT",
+            "POLETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "BTCUSDT",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "ATOM"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "ATOMUSDT",
+            "ATOMETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "IOTA"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "IOTAUSDT",
+            "IOTAETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "S"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "SUSDT",
+            "SETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "BNBUSDT",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "VET"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "VETUSDT",
+            "VETETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "TRX"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "TRXUSDT",
+            "TRXETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "A"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "AUSDT",
+            "AETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "ADA"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "ADAUSDT",
+            "ADAETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "AVAX"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "AVAXUSDT",
+            "AVAXETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "USDT",
+            "APT"
+        ],
+        "symbols": [
+            "ETHUSDT",
+            "APTUSDT",
+            "APTETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "SSV",
+            "BTC"
+        ],
+        "symbols": [
+            "SSVETH",
+            "SSVBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "UNI",
+            "BTC"
+        ],
+        "symbols": [
+            "UNIETH",
+            "UNIBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "SOL",
+            "BTC"
+        ],
+        "symbols": [
+            "SOLETH",
+            "SOLBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "SOL",
+            "BNB"
+        ],
+        "symbols": [
+            "SOLETH",
+            "SOLBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "POL",
+            "BTC"
+        ],
+        "symbols": [
+            "POLETH",
+            "POLBTC",
+            "ETHBTC"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "POL",
+            "BNB"
+        ],
+        "symbols": [
+            "POLETH",
+            "POLBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "WBTC"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "WBTCBTC",
+            "WBTCETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "ATOM"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "ATOMBTC",
+            "ATOMETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "AXS"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "AXSBTC",
+            "AXSETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "RLC"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "RLCBTC",
+            "RLCETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "IOTA"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "IOTABTC",
+            "IOTAETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "S"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "SBTC",
+            "SETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "EGLD"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "EGLDBTC",
+            "EGLDETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "BNBBTC",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "QTUM"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "QTUMBTC",
+            "QTUMETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "GRT"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "GRTBTC",
+            "GRTETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "VET"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "VETBTC",
+            "VETETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "ADX"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "ADXBTC",
+            "ADXETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "TRX"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "TRXBTC",
+            "TRXETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "STEEM"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "STEEMBTC",
+            "STEEMETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "A"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "ABTC",
+            "AETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "ADA"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "ADABTC",
+            "ADAETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "AVAX"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "AVAXBTC",
+            "AVAXETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BTC",
+            "APT"
+        ],
+        "symbols": [
+            "ETHBTC",
+            "APTBTC",
+            "APTETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "AXS",
+            "BNB"
+        ],
+        "symbols": [
+            "AXSETH",
+            "AXSBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "S",
+            "BNB"
+        ],
+        "symbols": [
+            "SETH",
+            "SBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "EGLD",
+            "BNB"
+        ],
+        "symbols": [
+            "EGLDETH",
+            "EGLDBNB",
+            "BNBETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BNB",
+            "VET"
+        ],
+        "symbols": [
+            "BNBETH",
+            "VETBNB",
+            "VETETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BNB",
+            "TRX"
+        ],
+        "symbols": [
+            "BNBETH",
+            "TRXBNB",
+            "TRXETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BNB",
+            "ADA"
+        ],
+        "symbols": [
+            "BNBETH",
+            "ADABNB",
+            "ADAETH"
+        ]
+    },
+    {
+        "route": [
+            "ETH",
+            "BNB",
+            "AVAX"
+        ],
+        "symbols": [
+            "BNBETH",
+            "AVAXBNB",
+            "AVAXETH"
+        ]
+    },
+    {
+        "route": [
+            "WCT",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "WCTUSDT",
+            "BNBUSDT",
+            "WCTBNB"
+        ]
+    },
+    {
+        "route": [
+            "ORDI",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ORDIUSDT",
+            "BTCUSDT",
+            "ORDIBTC"
+        ]
+    },
+    {
+        "route": [
+            "BB",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "BBBTC",
+            "BNBBTC",
+            "BBBNB"
+        ]
+    },
+    {
+        "route": [
+            "CFX",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "CFXUSDT",
+            "BTCUSDT",
+            "CFXBTC"
+        ]
+    },
+    {
+        "route": [
+            "ICP",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ICPUSDT",
+            "BTCUSDT",
+            "ICPBTC"
+        ]
+    },
+    {
+        "route": [
+            "INJ",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "INJUSDT",
+            "BTCUSDT",
+            "INJBTC"
+        ]
+    },
+    {
+        "route": [
+            "INJ",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "INJUSDT",
+            "BNBUSDT",
+            "INJBNB"
+        ]
+    },
+    {
+        "route": [
+            "INJ",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "INJBTC",
+            "BNBBTC",
+            "INJBNB"
+        ]
+    },
+    {
+        "route": [
+            "INIT",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "INITUSDT",
+            "BNBUSDT",
+            "INITBNB"
+        ]
+    },
+    {
+        "route": [
+            "CYBER",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "CYBERBTC",
+            "BNBBTC",
+            "CYBERBNB"
+        ]
+    },
+    {
+        "route": [
+            "LAYER",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "LAYERUSDT",
+            "BTCUSDT",
+            "LAYERBTC"
+        ]
+    },
+    {
+        "route": [
+            "LAYER",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "LAYERUSDT",
+            "BNBUSDT",
+            "LAYERBNB"
+        ]
+    },
+    {
+        "route": [
+            "LAYER",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "LAYERBTC",
+            "BNBBTC",
+            "LAYERBNB"
+        ]
+    },
+    {
+        "route": [
+            "HAEDAL",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "HAEDALUSDT",
+            "BNBUSDT",
+            "HAEDALBNB"
+        ]
+    },
+    {
+        "route": [
+            "BERA",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "BERABTC",
+            "BNBBTC",
+            "BERABNB"
+        ]
+    },
+    {
+        "route": [
+            "ENA",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "ENAUSDT",
+            "BTCUSDT",
+            "ENABTC"
+        ]
+    },
+    {
+        "route": [
+            "ENA",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "ENAUSDT",
+            "BNBUSDT",
+            "ENABNB"
+        ]
+    },
+    {
+        "route": [
+            "ENA",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "ENABTC",
+            "BNBBTC",
+            "ENABNB"
+        ]
+    },
+    {
+        "route": [
+            "MAV",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "MAVUSDT",
+            "BTCUSDT",
+            "MAVBTC"
+        ]
+    },
+    {
+        "route": [
+            "NEWT",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "NEWTUSDT",
+            "BNBUSDT",
+            "NEWTBNB"
+        ]
+    },
+    {
+        "route": [
+            "DOT",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "DOTUSDT",
+            "BTCUSDT",
+            "DOTBTC"
+        ]
+    },
+    {
+        "route": [
+            "DOT",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "DOTUSDT",
+            "BNBUSDT",
+            "DOTBNB"
+        ]
+    },
+    {
+        "route": [
+            "DOT",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "DOTBTC",
+            "BNBBTC",
+            "DOTBNB"
+        ]
+    },
+    {
+        "route": [
+            "FIL",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "FILUSDT",
+            "BTCUSDT",
+            "FILBTC"
+        ]
+    },
+    {
+        "route": [
+            "LPT",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "LPTBTC",
+            "BNBBTC",
+            "LPTBNB"
+        ]
+    },
+    {
+        "route": [
+            "LDO",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "LDOUSDT",
+            "BTCUSDT",
+            "LDOBTC"
+        ]
+    },
+    {
+        "route": [
+            "AGLD",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "AGLDUSDT",
+            "BTCUSDT",
+            "AGLDBTC"
+        ]
+    },
+    {
+        "route": [
+            "SEI",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "SEIUSDT",
+            "BTCUSDT",
+            "SEIBTC"
+        ]
+    },
+    {
+        "route": [
+            "SEI",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "SEIUSDT",
+            "BNBUSDT",
+            "SEIBNB"
+        ]
+    },
+    {
+        "route": [
+            "SEI",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "SEIBTC",
+            "BNBBTC",
+            "SEIBNB"
+        ]
+    },
+    {
+        "route": [
+            "SHELL",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "SHELLBTC",
+            "BNBBTC",
+            "SHELLBNB"
+        ]
+    },
+    {
+        "route": [
+            "LTC",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "LTCUSDT",
+            "BTCUSDT",
+            "LTCBTC"
+        ]
+    },
+    {
+        "route": [
+            "LTC",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "LTCUSDT",
+            "BNBUSDT",
+            "LTCBNB"
+        ]
+    },
+    {
+        "route": [
+            "LTC",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "LTCBTC",
+            "BNBBTC",
+            "LTCBNB"
+        ]
+    },
+    {
+        "route": [
+            "OMNI",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "OMNIUSDT",
+            "BTCUSDT",
+            "OMNIBTC"
+        ]
+    },
+    {
+        "route": [
+            "AI",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "AIBTC",
+            "BNBBTC",
+            "AIBNB"
+        ]
+    },
+    {
+        "route": [
+            "OP",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "OPUSDT",
+            "BTCUSDT",
+            "OPBTC"
+        ]
+    },
+    {
+        "route": [
+            "NEAR",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "NEARUSDT",
+            "BTCUSDT",
+            "NEARBTC"
+        ]
+    },
+    {
+        "route": [
+            "NEAR",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "NEARUSDT",
+            "BNBUSDT",
+            "NEARBNB"
+        ]
+    },
+    {
+        "route": [
+            "NEAR",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "NEARBTC",
+            "BNBBTC",
+            "NEARBNB"
+        ]
+    },
+    {
+        "route": [
+            "HOME",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "HOMEUSDT",
+            "BNBUSDT",
+            "HOMEBNB"
+        ]
+    },
+    {
+        "route": [
+            "FET",
+            "USDT",
+            "BTC"
+        ],
+        "symbols": [
+            "FETUSDT",
+            "BTCUSDT",
+            "FETBTC"
+        ]
+    },
+    {
+        "route": [
+            "FET",
+            "USDT",
+            "BNB"
+        ],
+        "symbols": [
+            "FETUSDT",
+            "BNBUSDT",
+            "FETBNB"
+        ]
+    },
+    {
+        "route": [
+            "FET",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "FETBTC",
+            "BNBBTC",
+            "FETBNB"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BAKE",
+            "BTC"
+        ],
+        "symbols": [
+            "BAKEUSDT",
+            "BAKEBTC",
+            "BTCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "UNI",
+            "BTC"
+        ],
+        "symbols": [
+            "UNIUSDT",
+            "UNIBTC",
+            "BTCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "SOL",
+            "BTC"
+        ],
+        "symbols": [
+            "SOLUSDT",
+            "SOLBTC",
+            "BTCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "SOL",
+            "BNB"
+        ],
+        "symbols": [
+            "SOLUSDT",
+            "SOLBNB",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "POL",
+            "BTC"
+        ],
+        "symbols": [
+            "POLUSDT",
+            "POLBTC",
+            "BTCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "POL",
+            "BNB"
+        ],
+        "symbols": [
+            "POLUSDT",
+            "POLBNB",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "SUI",
+            "BTC"
+        ],
+        "symbols": [
+            "SUIUSDT",
+            "SUIBTC",
+            "BTCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "SUI",
+            "BNB"
+        ],
+        "symbols": [
+            "SUIUSDT",
+            "SUIBNB",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "STORJ",
+            "BTC"
+        ],
+        "symbols": [
+            "STORJUSDT",
+            "STORJBTC",
+            "BTCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "PNUT"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "PNUTBTC",
+            "PNUTUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "ATOM"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "ATOMBTC",
+            "ATOMUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "SAGA"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "SAGABTC",
+            "SAGAUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "IOTA"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "IOTABTC",
+            "IOTAUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "ALGO"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "ALGOBTC",
+            "ALGOUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "PEOPLE"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "PEOPLEBTC",
+            "PEOPLEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "S"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "SBTC",
+            "SUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "BNBBTC",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "CAKE"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "CAKEBTC",
+            "CAKEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "EIGEN"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "EIGENBTC",
+            "EIGENUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "VET"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "VETBTC",
+            "VETUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "OM"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "OMBTC",
+            "OMUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "1INCH"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "1INCHBTC",
+            "1INCHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "TIA"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "TIABTC",
+            "TIAUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "BCH"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "BCHBTC",
+            "BCHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "HBAR"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "HBARBTC",
+            "HBARUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "TRX"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "TRXBTC",
+            "TRXUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "MKR"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "MKRBTC",
+            "MKRUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "MOVE"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "MOVEBTC",
+            "MOVEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "DOGE"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "DOGEBTC",
+            "DOGEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "KNC"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "KNCBTC",
+            "KNCUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "OXT"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "OXTBTC",
+            "OXTUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "WLD"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "WLDBTC",
+            "WLDUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "AUDIO"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "AUDIOBTC",
+            "AUDIOUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "COMP"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "COMPBTC",
+            "COMPUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "AUCTION"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "AUCTIONBTC",
+            "AUCTIONUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "A"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "ABTC",
+            "AUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "ADA"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "ADABTC",
+            "ADAUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "AVAX"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "AVAXBTC",
+            "AVAXUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "CRV"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "CRVBTC",
+            "CRVUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BTC",
+            "APT"
+        ],
+        "symbols": [
+            "BTCUSDT",
+            "APTBTC",
+            "APTUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "SAGA",
+            "BNB"
+        ],
+        "symbols": [
+            "SAGAUSDT",
+            "SAGABNB",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "S",
+            "BNB"
+        ],
+        "symbols": [
+            "SUSDT",
+            "SBNB",
+            "BNBUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "CAKE"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "CAKEBNB",
+            "CAKEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "VET"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "VETBNB",
+            "VETUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "BCH"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "BCHBNB",
+            "BCHUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "HYPER"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "HYPERBNB",
+            "HYPERUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "HBAR"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "HBARBNB",
+            "HBARUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "TRX"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "TRXBNB",
+            "TRXUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "MOVE"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "MOVEBNB",
+            "MOVEUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "RESOLV"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "RESOLVBNB",
+            "RESOLVUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "HUMA"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "HUMABNB",
+            "HUMAUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "ADA"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "ADABNB",
+            "ADAUSDT"
+        ]
+    },
+    {
+        "route": [
+            "USDT",
+            "BNB",
+            "AVAX"
+        ],
+        "symbols": [
+            "BNBUSDT",
+            "AVAXBNB",
+            "AVAXUSDT"
+        ]
+    },
+    {
+        "route": [
+            "SOL",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "SOLBTC",
+            "BNBBTC",
+            "SOLBNB"
+        ]
+    },
+    {
+        "route": [
+            "POL",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "POLBTC",
+            "BNBBTC",
+            "POLBNB"
+        ]
+    },
+    {
+        "route": [
+            "SUI",
+            "BTC",
+            "BNB"
+        ],
+        "symbols": [
+            "SUIBTC",
+            "BNBBTC",
+            "SUIBNB"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "CTK",
+            "BNB"
+        ],
+        "symbols": [
+            "CTKBTC",
+            "CTKBNB",
+            "BNBBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "SAGA",
+            "BNB"
+        ],
+        "symbols": [
+            "SAGABTC",
+            "SAGABNB",
+            "BNBBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "AXS",
+            "BNB"
+        ],
+        "symbols": [
+            "AXSBTC",
+            "AXSBNB",
+            "BNBBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "S",
+            "BNB"
+        ],
+        "symbols": [
+            "SBTC",
+            "SBNB",
+            "BNBBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "EGLD",
+            "BNB"
+        ],
+        "symbols": [
+            "EGLDBTC",
+            "EGLDBNB",
+            "BNBBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "CAKE"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "CAKEBNB",
+            "CAKEBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "VET"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "VETBNB",
+            "VETBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "BCH"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "BCHBNB",
+            "BCHBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "CHZ"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "CHZBNB",
+            "CHZBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "HBAR"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "HBARBNB",
+            "HBARBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "TRX"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "TRXBNB",
+            "TRXBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "MOVE"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "MOVEBNB",
+            "MOVEBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "STX"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "STXBNB",
+            "STXBTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "ADA"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "ADABNB",
+            "ADABTC"
+        ]
+    },
+    {
+        "route": [
+            "BTC",
+            "BNB",
+            "AVAX"
+        ],
+        "symbols": [
+            "BNBBTC",
+            "AVAXBNB",
+            "AVAXBTC"
+        ]
+    }
+]

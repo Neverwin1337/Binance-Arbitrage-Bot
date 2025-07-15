@@ -1,0 +1,3 @@
+API_KEY = ''
+API_SECRET = '' 
+FEE_RATE = 0.001
