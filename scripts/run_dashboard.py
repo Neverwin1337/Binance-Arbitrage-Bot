@@ -5,8 +5,8 @@ from streamlit_autorefresh import st_autorefresh
 
 from arbitrage.config import DATA_DIR
 
-st_autorefresh(interval=1000)
 st.set_page_config(page_title="Orderbook Dashboard", layout="wide")
+st_autorefresh(interval=1000)
 st.title("币安盘口可视化 (Orderbook Dashboard)")
 
 
