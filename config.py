@@ -1,3 +1,1 @@
-API_KEY = ''
-API_SECRET = '' 
-FEE_RATE = 0.001
+from arbitrage.config import API_KEY, API_SECRET, FEE_RATE
