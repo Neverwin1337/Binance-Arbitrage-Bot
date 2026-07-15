@@ -116,8 +116,10 @@ class ArbBot:
     async def _periodic_save(self, interval: int = 2) -> None:
         while True:
             path = f"{DATA_DIR}/ob.json"
+            async with self.orderbook._lock:
+                snapshot = dict(self.orderbook.orderbooks)
             with open(path, "w") as f:
-                json.dump(self.orderbook.orderbooks, f)
+                json.dump(snapshot, f)
             await asyncio.sleep(interval)
 
     async def run(self) -> None:
